@@ -20,8 +20,11 @@ $ cd telepose/openpose
     $ git checkout f49e18421da832ae441f75477035786126357401 
     $ mkdir build 
     $ cd build 
-    $ cmake .. 
+    $ ccmake .. 
+Turn on flags for DOWNLOAD_BODY_COCO_MODEL
     $ make all -j(num of cores) ```
+(If the models cannot be found, attempt a `sudo make install` in the build folder)
+
 
 Final Catkin_make:
 
