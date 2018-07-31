@@ -1,0 +1,5 @@
+uint64 person_id
+geometry_msgs/PoseArray left_hand_part
+geometry_msgs/PoseArray right_hand_part
+geometry_msgs/PoseArray body_part
+geometry_msgs/PoseArray face_part
