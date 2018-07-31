@@ -29,7 +29,7 @@ Turn on flags for DOWNLOAD_BODY_COCO_MODEL
 Final Catkin_make:
 
 ``` 
-$ cd ../.. 
+$ cd ../../.. 
 $ catkin_make
 $ cd .. 
 $ source devel/setup.bash 
