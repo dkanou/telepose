@@ -21,15 +21,17 @@ $ cd telepose/openpose
     $ mkdir build 
     $ cd build 
     $ ccmake .. 
-Turn on flags for DOWNLOAD_BODY_COCO_MODEL
-    $ make all -j(num of cores) ```
+Turn on flags for DOWNLOAD_BODY_COCO_MODEL in the cmake GUI
+```bash
+$ make all -j(num of cores)
+```
 (If the models cannot be found, attempt a `sudo make install` in the build folder)
 
 
 Final Catkin_make:
 
 ``` 
-$ cd ../../.. 
+$ cd [/catkin_ws location]
 $ catkin_make
 $ cd .. 
 $ source devel/setup.bash 
@@ -55,8 +57,7 @@ $ rosrun openpose_pkg keypoints3d
 
 This will bring up the video output with the assigned Pose superimposed.
 
-![alt text][fullbody]
-[fullbody]: https://github.com/dkanou/telepose/images/fullbody.png "Fullbody OpenPose"
+![Full Body OpenPose](/images/fullbody.png)
 
 ## Executables
 
