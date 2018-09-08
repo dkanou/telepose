@@ -8,7 +8,7 @@ Web-page: https://sites.google.com/view/telepose
 Video: https://youtu.be/p9vv6LRn2ts
 
 ## Publications
-1. Emily-Jane Rolley-Parnell, Dimitrios Kanoulas, Arturo Laurenzi, Brian Delhaisse, Leonel Rozo, Darwin G. Caldwell, Nikos G. Tsagarakis, *"Bi-Manual Articulated Robot Teleoperation using an External RGB-D Range Sensor"*, 15th International Conference on Control, Automation, Robotics and Vision, **ICARCV 2018**. [.pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F327515599_Bi-Manual_Articulated_Robot_Teleoperation_using_an_External_RGB-D_Range_Sensor&sa=D&sntz=1&usg=AFQjCNHjM7b1IPhZ1OA56fh57qTjA3ECJg)
+1. Emily-Jane Rolley-Parnell, Dimitrios Kanoulas, Arturo Laurenzi, Brian Delhaisse, Leonel Rozo, Darwin G. Caldwell, Nikos G. Tsagarakis, *"Bi-Manual Articulated Robot Teleoperation using an External RGB-D Range Sensor"*, 15th International Conference on Control, Automation, Robotics and Vision, **ICARCV 2018**. [[.pdf]](https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F327515599_Bi-Manual_Articulated_Robot_Teleoperation_using_an_External_RGB-D_Range_Sensor&sa=D&sntz=1&usg=AFQjCNHjM7b1IPhZ1OA56fh57qTjA3ECJg)
 
 ## Installing Original OpenPose
 ``` 
